@@ -1,3 +1,4 @@
+% This code is attributed to the GATI x BEAM program
 import java.awt.Robot;
 global mouse;
 % This is designed to work with the callback function

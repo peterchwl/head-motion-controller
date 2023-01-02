@@ -1,3 +1,4 @@
+% This code is attributed to the GATI x BEAM program
 function readArduinoGamingDevice(src, ~)
 global mouse
 % Read the ASCII data from the serialport object.
